@@ -1,6 +1,5 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=skytree2002)](https://solved.ac/skytree2002)
 
-![Skytree's GitHub stats](https://github-readme-stats.vercel.app/api?username=skytree82&show_icons=true&theme=radical)
 
 <!--
 **skytree82/skytree82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
